@@ -15,7 +15,7 @@
     "@vitejs/plugin-react": "^6.1.0",
     "i18next-resources-for-ts": "^2.1.0",
     "typescript": "^5.9.3",
-    "vite": "^8.2.2"
+    "vite": "^8.3.5"
   },
   "scripts": {
     "start": "vite",
